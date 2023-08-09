@@ -1,6 +1,6 @@
 # Site de photographe et vidéaste
 
-Cette application web est un site internet que j'ai commencé à créer durant ma formation lors de mon stage de fin d'année.
+Cettee application web est un site internet que j'ai commencé à créer durant ma formation lors de mon stage de fin d'année.
 Pour ce faire, j'ai utilisé les technologies mern stack.
 Ce site internet propose plusieurs prestations liée à la photographie :
 
